@@ -449,7 +449,7 @@ df_selection7 = df7[
     ]
 
 # This is the formatting for the actual page itself. It still needs some work and I can use html to design it.
-st.title("Forked Isomer Search Engine")
+st.title("Isomer Search Engine")
 st.subheader("An interactive website to search, filter, and find data on Isomeric Transition Nuclear Isomers")
 st.markdown("#")
 
